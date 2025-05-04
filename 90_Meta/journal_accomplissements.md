@@ -1,16 +1,29 @@
-# Journal des accomplissements
+# 📘 Journal des accomplissements SMA
 
-tags: #bilan #actions #archives
-date_début: 2025-05-04
+## 📅 2025-05-05 – Consolidation de la mémoire SMA et clarification stratégique
 
----
+### ✅ Objectifs atteints
 
-## 📆 2025-05-04
+- Analyse complète des sujets en suspens depuis le lancement du projet SMA.
+- Création et intégration de 5 notes stratégiques fondamentales :
+  - `meta_journal_apprentissage.md`
+  - `meta_memoire_architecture.md`
+  - `meta_git_pilier_sma.md`
+  - `meta_interop_flux_agents.md`
+  - `journal_apprentissage_llm.md` (journal autonome)
+- Ajout à la roadmap de tous les sujets planifiés, différés ou techniques.
+- Clarification du rôle de Git comme socle logique, temporel, et collaboratif du SMA.
+- Définition des futures interfaces agents ↔ mémoire (interopérabilité, structuration, parsing).
+- Réaffirmation de la vision long terme : SMA localisé, versionné, interopérable, humainement traçable.
 
-- Création des fichiers de cours : `intro_sma_synthetique.md`, `models_typology_comparison.md`
-- Génération des premiers templates pour les agents (Doc, Sécu, Tickets)
-- Ajout du glossaire technique initial
-- Mise en place de l’index global `index.md`
-- Formalisation de l’objectif de mémoire cognitive dans `sma_memoire_objectifs.md`
-- Bilan de progression intégré dans le journal
-- Carte de visite (textuelle et graphique) générée
+### 🧠 Avancement de la réflexion
+
+- Consolidation des fondements : la mémoire SMA n’est pas seulement un dépôt technique, c’est une **mémoire cognitive évolutive**.
+- Distinction claire entre :
+  - Journal d’accomplissements projet
+  - Journal d’apprentissage personnel
+- Reconnaissance du besoin d’un futur agent “métacognitif” capable de lire et exploiter ces traces.
+- Stabilisation de la base du projet : plus aucun point flottant ou négligé à ce stade.
+- Vision claire de l’étape suivante : entrer dans la phase 2 (agents spécialisés + premier LLM local).
+
+> Ce jalon marque la fin de la phase de préparation stratégique. Le système de mémoire est cohérent, traçable, versionné, et prêt à être exploité par des agents ou des humains.
