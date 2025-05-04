@@ -1,0 +1,4 @@
+# Fichiers à ignorer
+*.log
+*.tmp
+.DS_Store
